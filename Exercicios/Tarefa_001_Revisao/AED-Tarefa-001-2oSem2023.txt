@@ -1,0 +1,39 @@
+--------------------------------------------------------------------------------------------------------------
+                                     AED - Algoritmos e Estruturas de Dados
+                                     Exercícios para Revisão da Linguagem C
+                                       Professor Sandro Teixeira Carvalho
+--------------------------------------------------------------------------------------------------------------
+Utilize o IDE de sua preferência para a implementação dos programas a seguir. Compacte todos os seus arquivos
+de código-fonte (arquivos .c) em um arquivo .rar ou .zip.
+
+ATENÇÃO: Não envie arquivos com extensão .exe para o Teams. Envie somente os arquivos de código-fonte,
+         ou seja, arquivos com extensão .c.
+--------------------------------------------------------------------------------------------------------------
+
+01) Escreva um programa em linguagem C que leia dois números inteiros, calcule a soma desses dois números e
+    imprima o resultado. Escreva um programa monolítico, ou seja, que possui somente a função main.
+
+02) Escreva um programa em C que leia o raio de uma esfera e calcule e imprima a área da superfície dessa
+    esfera. Utilize o qualificador const da linguagem C para criar a constante com o nome PI. O cálculo
+    deve ser feito por uma função. Não utilize variáveis com escopo global.
+
+03) Escreva um programa em C que leia o salário de um funcionário e uma porcentagem de aumento de salário. Em 
+    seguida, calcule e imprima o novo salário do funcionário e o valor que o funcionário receberá de 
+    aumento. O cálculo deve ser feito por uma função. Não utilize variáveis com escopo global.
+
+04) Escreva um programa em C que leia um número inteiro dentro da função main e passe esse número para uma
+    função. A função deve receber esse número e somar 1 a esse número. A função não deve retornar o número
+    que ela recebeu como parâmetro via comando return. A função main deve imprimir o número modificado.
+    Dica: utilize a parametrização por referência através dos ponteiros.
+
+05) Escreva um programa em C que preencha um array de inteiros de tamanho 50 com números aleatórios de 1 até
+    200 e imprima o conteúdo do array. Escreva um programa monolítico. Escreva uma instrução for para
+    preencher o array e outra instrução for para imprimir o array.
+
+06) Escreva um programa em C que preencha um array de inteiros de tamanho 50 com números aleatórios de 1 até
+    200 e imprima o conteúdo do array. O preenchimento do array deve ser feito por uma função. A impressão
+    do array também deve ser feito por uma outra função.
+
+--------------------------------------------------------------------------------------------------------------
+Fim de arquivo.
+
