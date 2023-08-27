@@ -31,7 +31,7 @@ int main(void){
 
     novoSalario = calcularNovoSalario(salario, percentualAumento);
 
-    printf("\nO novo salario é de R$%2.f", novoSalario);
+    printf("\nO novo salario é de R$%.2f", novoSalario);
 
     return 0;
 
